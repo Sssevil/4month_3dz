@@ -9,7 +9,7 @@ function TodosPage(props) {
             <h2>Todos Page</h2>
             <div className={style.box_todo}>
                 {
-                    array.map(arr => <Todo todo={arr}/>)
+                    array.map((arr,index) => <Todo key={index} todo={arr}/>)
                 }
             </div>
         </div>

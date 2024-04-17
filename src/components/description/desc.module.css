@@ -1,0 +1,5 @@
+.inner {
+    width: fit-content;
+    border: 2px solid goldenrod;
+    border-radius: 10px;
+}

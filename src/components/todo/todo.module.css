@@ -1,0 +1,6 @@
+.box {
+    width: fit-content;
+    border: 2px solid darkturquoise;
+    border-radius: 10px;
+    margin: auto;
+}

@@ -1,0 +1,9 @@
+.container {
+    width: fit-content;
+    border: 2px solid blueviolet;
+    border-radius: 10px;
+}
+
+.box_todo {
+    display: flex;
+}
